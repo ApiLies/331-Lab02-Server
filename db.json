@@ -65,6 +65,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
-    }
+    },
+    {
+      "id": 1004,
+      "category": "NEW",
+      "title": "New Event",
+      "description": "Its something new",
+      "location": "New York",
+      "date": "New Year",
+      "time": "23:59",
+      "petsAllowed": false,
+      "organizer": "New Man"
+    }  
   ]
 }
