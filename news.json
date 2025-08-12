@@ -1,0 +1,139 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "topic": "New Tech Product Release",
+      "short_detail": "Key moments from the heated political debate have sparked discussions nationwide.",
+      "status": "False",
+      "reporter": "Alex Johnson",
+      "date": "2025-08-08",
+      "time": "21:14:46"
+    },
+    {
+      "id": 2,
+      "topic": "Sports Championship Victory",
+      "short_detail": "The recent economic report shows significant growth in the local economy, surprising analysts.",
+      "status": "Pending",
+      "reporter": "Liam Wong",
+      "date": "2025-08-10",
+      "time": "15:27:46"
+    },
+    {
+      "id": 3,
+      "topic": "Cultural Festival Begins",
+      "short_detail": "The annual cultural festival kicked off with vibrant performances and food stalls.",
+      "status": "False",
+      "reporter": "Maria Lopez",
+      "date": "2025-08-10",
+      "time": "01:14:46"
+    },
+    {
+      "id": 4,
+      "topic": "Political Debate Highlights",
+      "short_detail": "A major traffic accident has caused road closures and delays in the downtown area.",
+      "status": "False",
+      "reporter": "Sophie Chen",
+      "date": "2025-08-09",
+      "time": "22:55:46"
+    },
+    {
+      "id": 5,
+      "topic": "New Tech Product Release",
+      "short_detail": "The national team secured a stunning victory in the sports championship final.",
+      "status": "Pending",
+      "reporter": "James Smith",
+      "date": "2025-08-08",
+      "time": "14:04:46"
+    },
+    {
+      "id": 6,
+      "topic": "Political Debate Highlights",
+      "short_detail": "Authorities are battling a wildfire in the northern region, urging residents to evacuate.",
+      "status": "True",
+      "reporter": "Liam Wong",
+      "date": "2025-08-09",
+      "time": "11:14:46"
+    },
+    {
+      "id": 7,
+      "topic": "Health Advisory Issued",
+      "short_detail": "A tech company unveiled its latest product, promising revolutionary features.",
+      "status": "True",
+      "reporter": "James Smith",
+      "date": "2025-08-11",
+      "time": "00:35:46"
+    },
+    {
+      "id": 8,
+      "topic": "Celebrity Charity Event",
+      "short_detail": "A popular celebrity hosted a charity event, raising funds for local hospitals.",
+      "status": "Pending",
+      "reporter": "Sophie Chen",
+      "date": "2025-08-08",
+      "time": "18:08:46"
+    },
+    {
+      "id": 9,
+      "topic": "Celebrity Charity Event",
+      "short_detail": "Scientists announced a breakthrough in space exploration technology.",
+      "status": "True",
+      "reporter": "Maria Lopez",
+      "date": "2025-08-10",
+      "time": "18:53:46"
+    },
+    {
+      "id": 10,
+      "topic": "Wildfire in Northern Region",
+      "short_detail": "The recent economic report shows significant growth in the local economy, surprising analysts.",
+      "status": "True",
+      "reporter": "James Smith",
+      "date": "2025-08-10",
+      "time": "14:14:46"
+    },
+    {
+      "id": 11,
+      "topic": "Political Debate Highlights",
+      "short_detail": "Scientists announced a breakthrough in space exploration technology.",
+      "status": "True",
+      "reporter": "Alex Johnson",
+      "date": "2025-08-08",
+      "time": "22:51:46"
+    },
+    {
+      "id": 12,
+      "topic": "Local Economy Growth",
+      "short_detail": "Key moments from the heated political debate have sparked discussions nationwide.",
+      "status": "Pending",
+      "reporter": "James Smith",
+      "date": "2025-08-08",
+      "time": "14:21:46"
+    },
+    {
+      "id": 13,
+      "topic": "Wildfire in Northern Region",
+      "short_detail": "The annual cultural festival kicked off with vibrant performances and food stalls.",
+      "status": "True",
+      "reporter": "Maria Lopez",
+      "date": "2025-08-08",
+      "time": "10:36:46"
+    },
+    {
+      "id": 14,
+      "topic": "Wildfire in Northern Region",
+      "short_detail": "Health officials issued an advisory following a rise in seasonal flu cases.",
+      "status": "True",
+      "reporter": "Maria Lopez",
+      "date": "2025-08-10",
+      "time": "06:48:46"
+    },
+    {
+      "id": 15,
+      "topic": "Political Debate Highlights",
+      "short_detail": "Key moments from the heated political debate have sparked discussions nationwide.",
+      "status": "Pending",
+      "reporter": "James Smith",
+      "date": "2025-08-09",
+      "time": "04:56:46"
+    }
+  ]
+}
